@@ -1,0 +1,10 @@
+label: Hockeyapp
+string : ##%%
+{
+print (_main_)
+set (__data.exe)
+type (_name_)
+as name: hockeyapp pass()
+block ()
+[...f]
+}
