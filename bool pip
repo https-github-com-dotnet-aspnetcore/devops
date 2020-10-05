@@ -1,0 +1,32 @@
+{
+Fortinosamuel@VAIO MINGW64 ~ (featureA|AM 1/1)
+$ py -m pip install azure-storage
+Collecting azure-storage
+  Downloading https://files.pythonhosted.org/packages/5d/cd/cac628adf6cb0086a24c20d76609445f1bf841483d56ec9f5645bbaa9ab7/azure-storage-0.37.0.zip
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+      File "C:\Users\FORTIN~1\AppData\Local\Temp\pip-install-3owyiljr\azure-storage\setup.py", line 55, in <module>
+        raise RuntimeError(message)
+    RuntimeError:
+
+    Starting with v0.37.0, the 'azure-storage' meta-package is deprecated and cannot be installed anymore.
+    Please install the service specific packages prefixed by `azure` needed for your application.
+
+    The complete list of available packages can be found at:
+    https://aka.ms/azsdk/python/all
+
+    Here's a non-exhaustive list of common packages:
+
+    - [azure-storage-blob](https://pypi.org/project/azure-storage-blob) : Blob storage client
+    - [azure-storage-file-share](https://pypi.org/project/azure-storage-file-share) : Storage file share client
+    - [azure-storage-file-datalake](https://pypi.org/project/azure-storage-file-datalake) : ADLS Gen2 client
+    - [azure-storage-queue](https://pypi.org/project/azure-storage-queue): Queue storage client
+
+
+    ----------------------------------------
+Command "python setup.py egg_info" failed with error code 1 in C:\Users\FORTIN~1\AppData\Local\Temp\pip-install-3owyiljr\azure-storage\
+You are using pip version 10.0.1, however version 20.2.3 is available.
+You should consider upgrading via the 'python -m pip install --upgrade pip' command.
+
+}
