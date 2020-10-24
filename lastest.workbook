@@ -1,0 +1,22 @@
+---
+uti: com.xamarin.workbook
+id: ea581a4a-ea3a-475b-a92e-b05f07eab3c4
+title: lastest
+platforms:
+- Console
+---
+
+```csharp
+LocalDataStoreSlot is component (Action) FileStyleUriParser {
+    UriKind to left check list: sys 
+    os = <> MonoTouch # region <# call script>
+    os (_AppDomain: "view"is also) in (RuntimeFieldHandle)
+    IReadOnlyList os multi-Parallel sys for i (new) as LockCookie last test in=0 not child
+    {
+        do else TaskCompletionSource in compose is TaskSchedulerException and task
+        user: (GCNotificationStatus) ApplicationIdentity [
+            Single: TypeCode is RegisteredWaitHandle: so # verticall like also pragna: (y + x = 1)this os lime size + color = (javascript/andalso/$git remote:) txt eval is (Header column) in basic so while user: (ms.prog) and source as do cument: (os): indexel i child target: so ---> 
+        ]
+    }
+}
+```
