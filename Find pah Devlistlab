@@ -1,0 +1,858 @@
+{
+'func.exe' (CoreCLR: DefaultDomain): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Private.CoreLib.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\func.dll' cargado. Símbolos cargados.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.Thread.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Autofac.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Collections.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Extensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\netstandard.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.AccessControl.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.FileSystem.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Newtonsoft.Json.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.InteropServices.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Colors.Net.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Console.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Linq.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.ComponentModel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Globalization.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Collections.Concurrent.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.Tasks.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.ApplicationInsights.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Script.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.Console.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.WindowsAzure.Storage.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.Http.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Hosting.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.DependencyInjection.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Http.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authentication.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authentication.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Extensions.Http.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Private.Uri.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Script.WebHost.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Linq.Expressions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.ComponentModel.TypeConverter.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.ObjectModel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.Cryptography.X509Certificates.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.Cryptography.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\DurableTask.AzureStorage.Internal.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\DurableTask.Core.Internal.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Serialization.Xml.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Private.DataContractSerialization.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'Anonymously Hosted DynamicMethods Assembly' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Extensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Serialization.Formatters.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.TraceSource.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Numerics.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Collections.Specialized.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Drawing.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Serialization.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Data.Common.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Xml.ReaderWriter.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Private.Xml.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.ComponentModel.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida: 'System.ArgumentNullException' en System.IO.FileSystem.dll
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\AccentedCommandLineParser.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida: 'System.ArgumentNullException' en System.IO.FileSystem.dll
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Host.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Options.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Hosting.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Hosting.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.InteropServices.RuntimeInformation.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.Process.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Memory.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.Sockets.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x3538 terminó con código 0 (0x0).
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.Tracing.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.Overlapped.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.NameResolution.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Script.Abstractions.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.Kestrel.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.Kestrel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida: 'System.ArgumentNullException' en System.IO.FileSystem.dll
+Excepción producida: 'System.ArgumentNullException' en System.IO.FileSystem.dll
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.Debug.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.IIS.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.IISIntegration.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.DependencyInjection.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.CommandLine.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.FileProviders.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.EnvironmentVariables.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Http.Features.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.DiagnosticSource.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.FileExtensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Http.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.ObjectPool.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.FileProviders.Physical.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.Json.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.UserSecrets.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.FileSystem.Watcher.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.FileSystemGlobbing.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.Timer.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.Configuration.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.Debug.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Logging.EventSource.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Options.ConfigurationExtensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.HostFiltering.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.ViewFeatures.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Cors.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authentication.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+El subproceso 0x5d0 terminó con código 0 (0x0).
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.DataProtection.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.WebEncoders.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.Claims.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Cryptography.Internal.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.DataProtection.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Text.Encodings.Web.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authentication.JwtBearer.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authorization.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.ApiExplorer.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Razor.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Razor.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.RazorPages.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.TagHelpers.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.DataAnnotations.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Formatters.Json.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Cors.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Routing.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.DependencyModel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.AppContext.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.FileSystem.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Routing.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Buffers.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Authorization.Policy.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Antiforgery.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.CodeAnalysis.Razor.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Razor.Language.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.CodeAnalysis.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Caching.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Caching.Memory.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Configuration.Binder.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Collections.Immutable.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Script.Grpc.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Grpc.Core.Api.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.Tasks.Dataflow.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\NuGet.Versioning.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.Pipelines.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Connections.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Win32.Registry.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Xml.XDocument.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Private.Xml.Linq.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Resources.ResourceManager.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.Cryptography.Algorithms.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Text.Encoding.Extensions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Text.RegularExpressions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Emit.ILGeneration.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Emit.Lightweight.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Localization.Abstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Net.Http.Headers.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.JsonPatch.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.FileProviders.Composite.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Security.Principal.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.ApplicationInsights.AspNetCore.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.Security.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AI.DependencyCollector.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reactive.Linq.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reactive.Interfaces.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reactive.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Grpc.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Threading.ThreadPool.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Google.Protobuf.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.CompilerServices.Unsafe.dll' cargado. El módulo se compiló sin símbolos.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Win32.Primitives.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Extensions.Hosting.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reactive.PlatformServices.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Runtime.Loader.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida: 'System.IO.FileNotFoundException' en System.Private.CoreLib.dll
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Extensions.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.DotNet.PlatformAbstractions.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\source\repos\FunctionApp4\FunctionApp4\bin\Debug\netcoreapp2.1\bin\Microsoft.Azure.WebJobs.Extensions.CosmosDB.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.HttpsPolicy.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Logging.ApplicationInsights.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.dll' cargado. 
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Net.Http.Formatting.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.AspNetCore.Mvc.WebApiCompatShim.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\source\repos\FunctionApp4\FunctionApp4\bin\Debug\netcoreapp2.1\bin\Microsoft.Azure.DocumentDB.Core.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Host.Storage.dll' cargado. 
+IHost
+IOptions`1
+IOptions`1
+ScriptHost
+IEventCollectorFactory
+IConfiguration
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.Cosmos.Table.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.WebJobs.Logging.dll' cargado. 
+IHostingEnvironment
+IConfiguration
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.Storage.Blob.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.Azure.Storage.Common.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+IOptions`1
+ILoggerFactory
+DistributedLockManagerContainerProvider
+DefaultTriggerBindingFactory
+IExtensionRegistryFactory
+IConfiguration
+IConfiguration
+IConfiguration
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\source\repos\FunctionApp4\FunctionApp4\bin\Debug\netcoreapp2.1\bin\Microsoft.Azure.Documents.ChangeFeedProcessor.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+DefaultScriptWebHookProvider
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Dynamic.Runtime.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+CompositeBindingProviderFactory
+IJobHostMetadataProviderFactory
+ILoggerFactory
+El subproceso 0x31ec terminó con código 0 (0x0).
+IOptions`1
+IEnumerable`1
+ScriptHost
+IEnvironment
+IOptions`1
+IOptions`1
+ILoggerFactory
+IEnumerable`1
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\source\repos\FunctionApp4\FunctionApp4\bin\Debug\netcoreapp2.1\bin\FunctionApp4.dll' cargado. Símbolos cargados.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\Microsoft.CodeAnalysis.Scripting.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\NuGet.ProjectModel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\NuGet.LibraryModel.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Emit.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'ScriptHost' cargado. 
+Excepción producida: 'System.InvalidOperationException' en Microsoft.Azure.WebJobs.Extensions.CosmosDB.dll
+Excepción producida: 'System.InvalidOperationException' en Microsoft.Azure.WebJobs.Extensions.CosmosDB.dll
+Excepción producida: 'System.InvalidOperationException' en System.Private.CoreLib.dll
+Excepción producida: 'System.InvalidOperationException' en System.Private.CoreLib.dll
+Excepción producida: 'System.InvalidOperationException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.WebJobs.Host.Indexers.FunctionIndexingException' en Microsoft.Azure.WebJobs.Host.dll
+Excepción producida: 'Microsoft.Azure.WebJobs.Host.Indexers.FunctionIndexingException' en System.Private.CoreLib.dll
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Diagnostics.StackTrace.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.Reflection.Metadata.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.MemoryMappedFiles.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+'func.exe' (CoreCLR: clrhost): 'C:\Users\Fortinosamuel\AppData\Local\AzureFunctionsTools\Releases\2.58.0\cli\System.IO.Compression.dll' cargado. No se encuentra el archivo PDB o no se puede abrir.
+Excepción producida: 'System.IO.FileNotFoundException' en System.Private.CoreLib.dll
+Excepción producida: 'System.IO.FileNotFoundException' en System.Private.CoreLib.dll
+IScriptJobHost
+ScriptHost
+IOptions`1
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x9f8 terminó con código 0 (0x0).
+El subproceso 0x2cd4 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2e08 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2f08 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x28bc terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0xdac terminó con código 0 (0x0).
+El subproceso 0x2ec4 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2768 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2c90 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x534 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x1d1c terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2bb0 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x38e8 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x39a4 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2a1c terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x414c terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+El subproceso 0x824 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x21c0 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2578 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+El subproceso 0x2ec0 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+El subproceso 0x3e14 terminó con código 0 (0x0).
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'System.ArgumentException' en System.Private.CoreLib.dll
+EventSource Error: ERROR: Exception during construction of EventSource Microsoft-System-Net-Primitives: Función incorrecta
+Excepción producida: 'System.Net.Sockets.SocketException' en System.Private.CoreLib.dll
+IOptions`1
+ScriptHost
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.Storage.Common.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en Microsoft.Azure.WebJobs.Host.Storage.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: 'Microsoft.Azure.Storage.StorageException' en System.Private.CoreLib.dll
+Excepción producida: '<desconocido>' en Módulo desconocido.
+El programa '[12052] func.exe' terminó con código -1073741510 (0xc000013a).
+
+}
